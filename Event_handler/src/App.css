@@ -1,0 +1,22 @@
+*{
+  background-color: black;
+}
+.container{
+  margin-left: 300px;
+  color: white;
+
+}
+ input{
+  border-color: aliceblue;
+  color: azure;
+  
+ }
+ 
+ input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
+
+
+ button{
+  margin: 10px;
+ }

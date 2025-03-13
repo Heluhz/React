@@ -1,0 +1,13 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
